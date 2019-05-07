@@ -37,7 +37,7 @@
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [cpp](Cpp/101.%20Symmetric%20Tree.cpp) | Easy | 8 ms | 14.8 MB |
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [cpp](Cpp/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp) | Medium | 16 ms | 15.2 MB |
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [cpp](Cpp/144.%20Binary%20Tree%20Preorder%20Traversal.cpp) | Medium | 12 ms | 9.4 MB |
-167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | [cpp](Cpp/) | Easy | 6 ms | N/A |
+167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [cpp](Cpp/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | Easy | 6 ms | N/A |
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [cpp](Cpp/206.%20Reverse%20Linked%20List.cpp) | Easy | 8 ms | 9.4 MB |
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [cpp](Cpp/207.%20Course%20Schedule.cpp) | Medium | 20 ms | 13 MB |
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.%20Is%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
