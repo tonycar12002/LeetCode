@@ -29,7 +29,7 @@
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [cpp](Cpp/75.%20Sort%20Colors.cpp)|Medium| 4 ms | 8.7 MB |
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [cpp](Cpp/78.%20Subsets.cpp)|Medium| 8 ms | 9.8 MB |
 79 | [Word Search](https://leetcode.com/problems/word-search/) | [cpp](Cpp/79.%20Word%20Search.cpp)|Medium| 352 ms | 156.7 MB |
-84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/84.%20Largest%20Rectangle%20in%20Histogram.cpp) | [cpp](Cpp/)|Hard| 24 ms | 10.9 MB |
+84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [cpp](Cpp/84.%20Largest%20Rectangle%20in%20Histogram.cpp)|Hard| 24 ms | 10.9 MB |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [cpp](Cpp/88.%20Merge%20Sorted%20Array.cpp)|Easy| 4 ms | 8.7 MB |
 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [cpp](Cpp/92.%20Reverse%20Linked%20List%20II.cpp)|Medium| 4 ms | 8.8 MB |
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [cpp](Cpp/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)|Medium| 4 ms | 9.6 MB |
