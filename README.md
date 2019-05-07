@@ -1,3 +1,2 @@
-# LeetCode
-## Good Problems
-* 84. Largest Rectangle in Histogram
+# LeetCode 解題原始碼
+## 
