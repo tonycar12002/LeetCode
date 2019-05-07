@@ -2,13 +2,13 @@
 Author: Tony Hsiao
 Date: 2018/05/29
 Topic: 9. Palindrome Number
-Speed: 280 ms
+Speed: 12 ms, 8.2MB
 Note: 數字是否迴文
 */
 class Solution {
 public:
     bool isPalindrome(int x) {
-    	int inverse_num = 0;
+    	long long  inverse_num = 0;
   		int x_copy = x;
   		int remain ;
         if(x<0)

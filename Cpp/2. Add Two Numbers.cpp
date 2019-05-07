@@ -2,7 +2,7 @@
 Author: Tony Hsiao
 Date: 2019/04/24
 Topic: 2. Add Two Numbers
-Speed: 28 ms
+Speed: 28 ms, 10.5 MB
 Note: Linked-list加法題目
 */
 /**

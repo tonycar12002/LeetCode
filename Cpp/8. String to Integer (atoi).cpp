@@ -2,7 +2,7 @@
 Author: Tony Hsiao
 Date: 2019/01/09
 Topic: 8. String to Integer (atoi)
-Speed: 20 ms
+Speed: 20 ms, 5.3MB
 Note: 陣列中找數字
 */
 class Solution {
