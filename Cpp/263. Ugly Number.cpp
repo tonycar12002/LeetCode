@@ -2,7 +2,7 @@
 Author: Tony Hsiao
 Date: 2019/05/09
 Topic: 263. Ugly Number
-Speed: 0 ms, 8.1 MB
+Speed: 4 ms, 8.1 MB
 Note: 判斷數字是否為ugly number
 */
 class Solution {

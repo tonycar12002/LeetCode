@@ -16,6 +16,7 @@
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [cpp](Cpp/20.%20Valid%20Parentheses.cpp)| Easy | 8 ms | 8.3 MB |
 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [cpp](Cpp/21.%20Merge%20Two%20Sorted%20Lists.cpp)| Medium| 8 ms | 9.1 MB |
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [cpp](Cpp/22.%20Generate%20Parentheses.cpp)| Medium| 8 ms | 17.2 MB |
+23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [cpp](Cpp/23.%20Merge%20k%20Sorted%20Lists.cpp)| Hard | 28 ms | 11.8 MB |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [cpp](Cpp/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)| Easy | 24 ms | 10 MB |
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [cpp](Cpp/28.%20Implement%20strStr().cpp)| Easy | 1364 ms | 9.2 MB |
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium| 16 ms | 11.2 MB |
@@ -41,9 +42,10 @@
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [cpp](Cpp/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp) | Medium | 16 ms | 15.2 MB |
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [cpp](Cpp/144.%20Binary%20Tree%20Preorder%20Traversal.cpp) | Medium | 12 ms | 9.4 MB |
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [cpp](Cpp/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | Easy | 6 ms | N/A |
+202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [cpp](Cpp/202.%20Happy%20Number.cpp)| Easy | 8 ms | 8.5 MB |
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [cpp](Cpp/206.%20Reverse%20Linked%20List.cpp) | Easy | 8 ms | 9.4 MB |
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [cpp](Cpp/207.%20Course%20Schedule.cpp) | Medium | 20 ms | 13 MB |
-263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [cpp](Cpp/263.%20Ugly%20Number.cpp)| Easy | 0 ms | 8.1 MB |
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [cpp](Cpp/263.%20Ugly%20Number.cpp)| Easy | 4 ms | 8.1 MB |
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [cpp](Cpp/264.%20Ugly%20Number%20II.cpp)| Medium | 12 ms | 14.9 MB |
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [cpp](Cpp/313.%20Super%20Ugly%20Number.cpp)| Medium | 72 ms | 10 MB |
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.cIs%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
@@ -57,4 +59,4 @@
 679 | [24 Game](https://leetcode.com/problems/24-game/) | [cpp](Cpp/679.%2024%20Game.cpp) | Hard | 36 ms | 15.7 MB |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
-980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 0 ms | 8.8 MB |
+980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |
