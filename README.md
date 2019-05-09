@@ -43,7 +43,10 @@
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [cpp](Cpp/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | Easy | 6 ms | N/A |
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [cpp](Cpp/206.%20Reverse%20Linked%20List.cpp) | Easy | 8 ms | 9.4 MB |
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [cpp](Cpp/207.%20Course%20Schedule.cpp) | Medium | 20 ms | 13 MB |
-392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.%20Is%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
+263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [cpp](Cpp/263.%20Ugly%20Number.cpp)| Easy | 0 ms | 8.1 MB |
+264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [cpp](Cpp/264.%20Ugly%20Number%20II.cpp)| Medium | 12 ms | 14.9 MB |
+313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [cpp](Cpp/313.%20Super%20Ugly%20Number.cpp)| Medium | 72 ms | 10 MB |
+392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.cIs%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [cpp](Cpp/445.%20Add%20Two%20Numbers%20II.cpp) | Medium | 20 ms | 13.7 MB |
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) | [cpp](Cpp/454.%204Sum%20II.cpp) | Medium | 148 ms | 28.6 MB
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [cpp](Cpp/455.%20Assign%20Cookies.cpp) | Easy | 44 ms | 10.4 MB |
@@ -54,3 +57,4 @@
 679 | [24 Game](https://leetcode.com/problems/24-game/) | [cpp](Cpp/679.%2024%20Game.cpp) | Hard | 36 ms | 15.7 MB |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
+980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 0 ms | 8.8 MB |
