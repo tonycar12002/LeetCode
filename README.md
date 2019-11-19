@@ -20,6 +20,7 @@
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [cpp](Cpp/22.%20Generate%20Parentheses.cpp)| Medium| 8 ms | 17.2 MB |
 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [cpp](Cpp/23.%20Merge%20k%20Sorted%20Lists.cpp)| Hard | 28 ms | 11.8 MB |
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [cpp](Cpp/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)| Easy | 24 ms | 10 MB |
+27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [cpp](Cpp/27.%20Remove%20Element.cpp)| Easy | 4 ms | 8.7 MB |
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [cpp](Cpp/28.%20Implement%20strStr().cpp)| Easy | 1364 ms | 9.2 MB |
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium| 16 ms | 11.2 MB |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [cpp](Cpp/49.%20Group%20Anagrams.cpp)| Medium| 40 ms | 18.1 MB |
