@@ -22,12 +22,14 @@
 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [cpp](Cpp/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cpp)| Easy | 24 ms | 10 MB |
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [cpp](Cpp/27.%20Remove%20Element.cpp)| Easy | 4 ms | 8.7 MB |
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [cpp](Cpp/28.%20Implement%20strStr().cpp)| Easy | 1364 ms | 9.2 MB |
+31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [cpp](Cpp/31.%20Next%20Permutation.cpp)| Medium | 8 ms | 8.6 MB |
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium| 16 ms | 11.2 MB |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [cpp](Cpp/49.%20Group%20Anagrams.cpp)| Medium| 40 ms | 18.1 MB |
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [cpp](Cpp/50.%20Pow(x%2C%20n).cpp)| Medium| 12 ms | N/A |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [cpp](Cpp/53.%20Maximum%20Subarray.cpp)| Easy | 4 ms | 9.3 MB |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [cpp](Cpp/62.%20Unique%20Paths.cpp)| Medium | 4 ms | 8.9 MB |
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [cpp](Cpp/63.%20Unique%20Paths%20II.cpp)| Medium | 4 ms | 9.3 MB |
+64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [cpp](Cpp/64.%20Minimum%20Path%20Sum.cpp)| Medium | 8 ms | 11 MB |
 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [cpp](Cpp/66.%20Plus%20One.cpp)| Easy | 4 ms | 8.6 MB |
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [cpp](Cpp/67.%20Add%20Binary.cpp)| Easy | 8 ms | 9.7 MB |
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [cpp](Cpp/69.%20Sqrt(x).cpp)| Easy | 25 ms | N/A |
@@ -44,6 +46,8 @@
 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [cpp](Cpp/99.%20Recover%20Binary%20Search%20Tree.cpp)| Hard | 24 ms | 23.8 MB |
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [cpp](Cpp/101.%20Symmetric%20Tree.cpp) | Easy | 8 ms | 14.8 MB |
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [cpp](Cpp/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp) | Medium | 16 ms | 15.2 MB |
+112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](Cpp/113.%20Path%20Sum%20II.cpp)| Easy | 16 ms | 19.7 MB |
+113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [cpp](Cpp/113.%20Path%20Sum.cpp)| Medium | 16 ms | 19.7 MB |
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [cpp](Cpp/144.%20Binary%20Tree%20Preorder%20Traversal.cpp) | Medium | 12 ms | 9.4 MB |
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [cpp](Cpp/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | Easy | 6 ms | N/A |
 195 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [cpp](Cpp/965.%20Univalued%20Binary%20Tree.cpp)| Easy | 4 ms | 10.7 MB |
