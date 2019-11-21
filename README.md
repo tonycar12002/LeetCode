@@ -34,6 +34,7 @@
 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [cpp](Cpp/67.%20Add%20Binary.cpp)| Easy | 8 ms | 9.7 MB |
 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [cpp](Cpp/69.%20Sqrt(x).cpp)| Easy | 25 ms | N/A |
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [cpp](Cpp/70.%20Climbing%20Stairs.cpp)| Easy | 4 ms | 8.2 MB |
+72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [cpp](Cpp/72.%20Edit%20Distance.cpp)| Easy |  ms |  MB |
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [cpp](Cpp/73.%20Set%20Matrix%20Zeroes.cpp)| Medium| 48 ms | 11.5 MB |
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [cpp](Cpp/75.%20Sort%20Colors.cpp)| Medium| 4 ms | 8.7 MB |
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [cpp](Cpp/78.%20Subsets.cpp)| Medium| 8 ms | 9.8 MB |
@@ -48,6 +49,7 @@
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [cpp](Cpp/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp) | Medium | 16 ms | 15.2 MB |
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](Cpp/113.%20Path%20Sum%20II.cpp)| Easy | 16 ms | 19.7 MB |
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [cpp](Cpp/113.%20Path%20Sum.cpp)| Medium | 16 ms | 19.7 MB |
+136 | [Single Number](https://leetcode.com/problems/single-number/) | [cpp](Cpp/136.%20Single%20Number.cpp) | Easy | 16 ms | 9.6 MB
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [cpp](Cpp/144.%20Binary%20Tree%20Preorder%20Traversal.cpp) | Medium | 12 ms | 9.4 MB |
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [cpp](Cpp/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | Easy | 6 ms | N/A |
 195 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [cpp](Cpp/965.%20Univalued%20Binary%20Tree.cpp)| Easy | 4 ms | 10.7 MB |
