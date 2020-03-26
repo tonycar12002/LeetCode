@@ -9,6 +9,7 @@
 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [cpp](Cpp/8.%20String%20to%20Integer%20(atoi).cpp)| Medium| 20 ms | 5.3 MB |
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [cpp](Cpp/9.%20Palindrome%20Number.cpp)| Easy | 12 ms | 8.2 MB |
 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [cpp](Cpp/11.%20Container%20With%20Most%20Water.cpp)| Medium| 28 ms | 9.8 MB |
+13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [cpp](Cpp/13.%20Roman%20to%20Integer.cpp)| Easy | 12 ms | 8.5 MB |
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [cpp](Cpp/14.%20Longest%20Common%20Prefix.cpp)| Easy | 8 ms | 1.4 MB |
 15 | [3Sum](https://leetcode.com/problems/3sum/) | [cpp](Cpp/15.%203Sum.cpp)| Medium| 104 ms | 14.9 MB |
 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [cpp](Cpp/16.%203Sum%20Closest.cpp)| Medium | 16 ms | 8.7 MB |
@@ -23,8 +24,13 @@
 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [cpp](Cpp/27.%20Remove%20Element.cpp)| Easy | 4 ms | 8.7 MB |
 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [cpp](Cpp/28.%20Implement%20strStr().cpp)| Easy | 1364 ms | 9.2 MB |
 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [cpp](Cpp/31.%20Next%20Permutation.cpp)| Medium | 8 ms | 8.6 MB |
-39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium| 16 ms | 11.2 MB |
-49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [cpp](Cpp/49.%20Group%20Anagrams.cpp)| Medium| 40 ms | 18.1 MB |
+33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [cpp](Cpp/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)| Medium | 4 ms | 6.7 MB |
+34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](Cpp/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)| Medium | 8 ms | 8 MB |
+36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [cpp](Cpp/36.%20Valid%20Sudoku.cpp)| Medium | 12 ms | 7.2 MB |
+39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium | 16 ms | 11.2 MB |
+41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [cpp](Cpp/41.%20First%20Missing%20Positive.cpp)| Hard | 0 ms | 6.6 MB |
+42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [cpp](Cpp/42.%20Trapping%20Rain%20Water.cpp) | Hard | ms | MB
+49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [cpp](Cpp/49.%20Group%20Anagrams.cpp)| Medium | 40 ms | 18.1 MB |
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [cpp](Cpp/50.%20Pow(x%2C%20n).cpp)| Medium| 12 ms | N/A |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [cpp](Cpp/53.%20Maximum%20Subarray.cpp)| Easy | 4 ms | 9.3 MB |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [cpp](Cpp/62.%20Unique%20Paths.cpp)| Medium | 4 ms | 8.9 MB |
@@ -39,6 +45,7 @@
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [cpp](Cpp/75.%20Sort%20Colors.cpp)| Medium| 4 ms | 8.7 MB |
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [cpp](Cpp/78.%20Subsets.cpp)| Medium| 8 ms | 9.8 MB |
 79 | [Word Search](https://leetcode.com/problems/word-search/) | [cpp](Cpp/79.%20Word%20Search.cpp)| Medium| 352 ms | 156.7 MB |
+81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [cpp](Cpp/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)| Medium| 4 ms | 6.8 MB |
 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [cpp](Cpp/84.%20Largest%20Rectangle%20in%20Histogram.cpp)|Hard| 24 ms | 10.9 MB |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [cpp](Cpp/88.%20Merge%20Sorted%20Array.cpp)| Easy | 4 ms | 8.7 MB |
 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [cpp](Cpp/92.%20Reverse%20Linked%20List%20II.cpp)| Medium| 4 ms | 8.8 MB |
