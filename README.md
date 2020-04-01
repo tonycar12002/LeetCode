@@ -47,6 +47,7 @@
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [cpp](Cpp/73.%20Set%20Matrix%20Zeroes.cpp)| Medium| 48 ms | 11.5 MB |
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [cpp](Cpp/75.%20Sort%20Colors.cpp)| Medium| 4 ms | 8.7 MB |
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [cpp](Cpp/76.%20Minimum%20Window%20Substring.cpp) | Hard | 52 ms | 16.3 MB |
+77 | [Combinations](https://leetcode.com/problems/combinations/) | [cpp](Cpp/77.%20Combinations.cpp) | Medium | 732 ms | 165.6 MB |
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [cpp](Cpp/78.%20Subsets.cpp)| Medium| 8 ms | 9.8 MB |
 79 | [Word Search](https://leetcode.com/problems/word-search/) | [cpp](Cpp/79.%20Word%20Search.cpp)| Medium| 352 ms | 156.7 MB |
 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [cpp](Cpp/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)| Medium| 4 ms | 6.8 MB |
@@ -62,7 +63,7 @@
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](Cpp/113.%20Path%20Sum%20II.cpp)| Easy | 16 ms | 19.7 MB |
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [cpp](Cpp/113.%20Path%20Sum.cpp)| Medium | 16 ms | 19.7 MB |
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [cpp](Cpp/128.%20Longest%20Consecutive%20Sequence.cpp)| Hard | 16 ms | 8 MB |
-131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [cpp](Cpp/131.%20Palindrome%20Partitioning.cpp) | Medium | 648 ms | 311 MB |
+131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [cpp](Cpp/131.%20Palindrome%20Partitioning.cpp) | Medium | 88 ms | 23.9 MB |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [cpp](Cpp/136.%20Single%20Number.cpp) | Easy | 16 ms | 9.6 MB
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [cpp](Cpp/144.%20Binary%20Tree%20Preorder%20Traversal.cpp) | Medium | 12 ms | 9.4 MB |
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [cpp](Cpp/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | Easy | 6 ms | N/A |

@@ -2,7 +2,7 @@
 Author: Tony Hsiao
 Date: 2020/03/31
 Topic: 131. Palindrome Partitioning
-Speed: 648 ms, 311 MB
+Speed: 88 ms, 23.9 MB
 Note:
 */
 #include <iostream>
@@ -40,16 +40,16 @@ public:
     void Recursive(std::vector<std::string>& current_ans, int start, std::string s) {
         for(int len=1; len<=s.size()-start; ++len) {
             std::string sub_string = s.substr(start, len);
-            std::vector<std::string> tmp = current_ans;
             if (IsPalindrome(sub_string)) {
                 //cout << "start = " << start << ", len = " << len << ", sub_string = " << sub_string << endl;
-                tmp.push_back(sub_string);
+                current_ans.push_back(sub_string);
                 if (start+len == s.size()) {
-                    ans.push_back(tmp);
+                    ans.push_back(current_ans);
                 }
                 else {
-                    Recursive(tmp, start+len, s);
+                    Recursive(current_ans, start+len, s);
                 }
+                current_ans.pop_back();
             }
         }
     }
