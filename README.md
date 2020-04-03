@@ -32,7 +32,8 @@
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [cpp](Cpp/36.%20Valid%20Sudoku.cpp)| Medium | 12 ms | 7.2 MB |
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium | 16 ms | 11.2 MB |
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [cpp](Cpp/41.%20First%20Missing%20Positive.cpp)| Hard | 0 ms | 6.6 MB |
-42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [cpp](Cpp/42.%20Trapping%20Rain%20Water.cpp) | Hard | 4 ms | 6.8 MB
+42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [cpp](Cpp/42.%20Trapping%20Rain%20Water.cpp) | Hard | 4 ms | 6.8 MB |
+46 | [Permutations](https://leetcode.com/problems/permutations/) | [cpp](Cpp/46.%20Permutations.cpp) | Medium | 8 ms | 7.3 MB |
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [cpp](Cpp/49.%20Group%20Anagrams.cpp)| Medium | 40 ms | 18.1 MB |
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [cpp](Cpp/50.%20Pow(x%2C%20n).cpp)| Medium| 12 ms | N/A |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [cpp](Cpp/53.%20Maximum%20Subarray.cpp)| Easy | 4 ms | 9.3 MB |
