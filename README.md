@@ -32,6 +32,7 @@
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [cpp](Cpp/35.%20Search%20Insert%20Position.cpp)| Easy | 4 ms | 7 MB |
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [cpp](Cpp/36.%20Valid%20Sudoku.cpp)| Medium | 12 ms | 7.2 MB |
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium | 16 ms | 11.2 MB |
+40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [cpp](Cpp/40.%20Combination%20Sum%20II.cpp)| Medium | 12 ms | 7 MB |
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [cpp](Cpp/41.%20First%20Missing%20Positive.cpp)| Hard | 0 ms | 6.6 MB |
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [cpp](Cpp/42.%20Trapping%20Rain%20Water.cpp) | Hard | 4 ms | 6.8 MB |
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [cpp](Cpp/43.%20Multiply%20Strings.cpp) | Medium | 16 ms | 6.8 MB |
@@ -41,6 +42,8 @@
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [cpp](Cpp/49.%20Group%20Anagrams.cpp)| Medium | 40 ms | 18.1 MB |
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [cpp](Cpp/50.%20Pow(x%2C%20n).cpp)| Medium| 12 ms | N/A |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [cpp](Cpp/53.%20Maximum%20Subarray.cpp)| Easy | 4 ms | 9.3 MB |
+54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [cpp](Cpp/54.%20Spiral%20Matrix.cpp) | Medium | 0 ms | 6.3 MB |
+59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [cpp](Cpp/59.%20Spiral%20Matrix%20II.cpp) | Medium | 0 ms | 6.5 MB |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [cpp](Cpp/62.%20Unique%20Paths.cpp)| Medium | 4 ms | 8.9 MB |
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [cpp](Cpp/63.%20Unique%20Paths%20II.cpp)| Medium | 4 ms | 9.3 MB |
 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [cpp](Cpp/64.%20Minimum%20Path%20Sum.cpp)| Medium | 8 ms | 11 MB |
