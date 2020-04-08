@@ -102,5 +102,7 @@
 679 | [24 Game](https://leetcode.com/problems/24-game/) | [cpp](Cpp/679.%2024%20Game.cpp) | Hard | 36 ms | 15.7 MB |
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
+797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [cpp](Cpp/797.%20All%20Paths%20From%20Source%20to%20Target.cpp) | Medium | 84 ms | 11.4 MB |
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |
+983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [cpp](Cpp/983.%20Minimum%20Cost%20For%20Tickets.cpp) | Medium | 4 ms | 6.7 MB |
 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [cpp](Cpp/1306.%20Jump%20Game%20III.cpp) | Medium | 52 ms | 10.9MB |
