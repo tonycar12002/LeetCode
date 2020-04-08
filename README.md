@@ -36,6 +36,7 @@
 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [cpp](Cpp/41.%20First%20Missing%20Positive.cpp)| Hard | 0 ms | 6.6 MB |
 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [cpp](Cpp/42.%20Trapping%20Rain%20Water.cpp) | Hard | 4 ms | 6.8 MB |
 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [cpp](Cpp/43.%20Multiply%20Strings.cpp) | Medium | 16 ms | 6.8 MB |
+45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [cpp](Cpp/45.%20Jump%20Game%20II.cpp) | Hard | 12 ms | 7.8 MB |
 46 | [Permutations](https://leetcode.com/problems/permutations/) | [cpp](Cpp/46.%20Permutations.cpp) | Medium | 8 ms | 7.3 MB |
 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [cpp](Cpp/47.%20Permutations%20II.cpp) | Medium | 44 ms | 8.2 MB |
 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [cpp](Cpp/48.%20Rotate%20Image.cpp) | Medium | 12 ms | 7 MB |
@@ -43,6 +44,8 @@
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [cpp](Cpp/50.%20Pow(x%2C%20n).cpp)| Medium| 12 ms | N/A |
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [cpp](Cpp/53.%20Maximum%20Subarray.cpp)| Easy | 4 ms | 9.3 MB |
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [cpp](Cpp/54.%20Spiral%20Matrix.cpp) | Medium | 0 ms | 6.3 MB |
+55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [cpp](Cpp/55.%20Jump%20Game.cpp) | Medium | 8 ms | 7.9 MB |
+56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [cpp](Cpp/56.%20Merge%20Intervals.cpp) | Medium | 24 ms | 9.9 MB |
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [cpp](Cpp/59.%20Spiral%20Matrix%20II.cpp) | Medium | 0 ms | 6.5 MB |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [cpp](Cpp/62.%20Unique%20Paths.cpp)| Medium | 4 ms | 8.9 MB |
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [cpp](Cpp/63.%20Unique%20Paths%20II.cpp)| Medium | 4 ms | 9.3 MB |
@@ -63,6 +66,7 @@
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [cpp](Cpp/88.%20Merge%20Sorted%20Array.cpp)| Easy | 4 ms | 8.7 MB |
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [cpp](Cpp/91.%20Decode%20Ways.cpp) | Medium | 0 ms | 6.5 MB |
 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [cpp](Cpp/92.%20Reverse%20Linked%20List%20II.cpp)| Medium| 4 ms | 8.8 MB |
+93 | [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) | [cpp](Cpp/93.%20Restore%20IP%20Addresses.cpp) | Medium | 0 ms | 6.5 MB |
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [cpp](Cpp/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)| Medium| 4 ms | 9.6 MB |
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [cpp](Cpp/98.%20Validate%20Binary%20Search%20Tree.cpp)| Easy | 20 ms | 20.7 MB |
 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [cpp](Cpp/99.%20Recover%20Binary%20Search%20Tree.cpp)| Hard | 24 ms | 23.8 MB |
@@ -70,6 +74,7 @@
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [cpp](Cpp/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp) | Medium | 16 ms | 15.2 MB |
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](Cpp/113.%20Path%20Sum%20II.cpp)| Easy | 16 ms | 19.7 MB |
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [cpp](Cpp/113.%20Path%20Sum.cpp)| Medium | 16 ms | 19.7 MB |
+120 | [Triangle](Cpp/120.%20Triangle.cpp) | [cpp](Cpp/120.%20Triangle.cpp) | Medium | 4 ms | 7.5 MS |
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [cpp](Cpp/128.%20Longest%20Consecutive%20Sequence.cpp)| Hard | 16 ms | 8 MB |
 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [cpp](Cpp/131.%20Palindrome%20Partitioning.cpp) | Medium | 88 ms | 23.9 MB |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [cpp](Cpp/136.%20Single%20Number.cpp) | Easy | 16 ms | 9.6 MB
@@ -98,3 +103,4 @@
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |
+1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [cpp](Cpp/1306.%20Jump%20Game%20III.cpp) | Medium | 52 ms | 10.9MB |
