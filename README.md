@@ -30,6 +30,7 @@
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [cpp](Cpp/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)| Medium | 4 ms | 6.7 MB |
 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [cpp](Cpp/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)| Medium | 8 ms | 8 MB |
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [cpp](Cpp/35.%20Search%20Insert%20Position.cpp)| Easy | 4 ms | 7 MB |
+38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [cpp](Cpp/38.%20Count%20and%20Say.cpp) | Easy | 4 ms | 56.8 MB |
 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [cpp](Cpp/36.%20Valid%20Sudoku.cpp)| Medium | 12 ms | 7.2 MB |
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [cpp](Cpp/39.%20Combination%20Sum.cpp)| Medium | 16 ms | 11.2 MB |
 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [cpp](Cpp/40.%20Combination%20Sum%20II.cpp)| Medium | 12 ms | 7 MB |
@@ -46,6 +47,7 @@
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [cpp](Cpp/54.%20Spiral%20Matrix.cpp) | Medium | 0 ms | 6.3 MB |
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [cpp](Cpp/55.%20Jump%20Game.cpp) | Medium | 8 ms | 7.9 MB |
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [cpp](Cpp/56.%20Merge%20Intervals.cpp) | Medium | 24 ms | 9.9 MB |
+58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [cpp](Cpp/58.%20Length%20of%20Last%20Word.cpp) | Easy | 0 ms | 6.5 MB |
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [cpp](Cpp/59.%20Spiral%20Matrix%20II.cpp) | Medium | 0 ms | 6.5 MB |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [cpp](Cpp/62.%20Unique%20Paths.cpp)| Medium | 4 ms | 8.9 MB |
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [cpp](Cpp/63.%20Unique%20Paths%20II.cpp)| Medium | 4 ms | 9.3 MB |
@@ -62,6 +64,7 @@
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [cpp](Cpp/78.%20Subsets.cpp)| Medium| 8 ms | 9.8 MB |
 79 | [Word Search](https://leetcode.com/problems/word-search/) | [cpp](Cpp/79.%20Word%20Search.cpp)| Medium| 352 ms | 156.7 MB |
 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [cpp](Cpp/81.%20Search%20in%20Rotated%20Sorted%20Array%20II.cpp)| Medium| 4 ms | 6.8 MB |
+83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [cpp](Cpp/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp) | Easy | 8 ms | 7.7 MB |
 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [cpp](Cpp/84.%20Largest%20Rectangle%20in%20Histogram.cpp)|Hard| 24 ms | 10.9 MB |
 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [cpp](Cpp/88.%20Merge%20Sorted%20Array.cpp)| Easy | 4 ms | 8.7 MB |
 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [cpp](Cpp/91.%20Decode%20Ways.cpp) | Medium | 0 ms | 6.5 MB |
@@ -70,11 +73,19 @@
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [cpp](Cpp/94.%20Binary%20Tree%20Inorder%20Traversal.cpp)| Medium| 4 ms | 9.6 MB |
 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [cpp](Cpp/98.%20Validate%20Binary%20Search%20Tree.cpp)| Easy | 20 ms | 20.7 MB |
 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [cpp](Cpp/99.%20Recover%20Binary%20Search%20Tree.cpp)| Hard | 24 ms | 23.8 MB |
+100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [cpp](Cpp/100.%20Same%20Tree.cpp) | 0 ms | 7.6 MB |
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [cpp](Cpp/101.%20Symmetric%20Tree.cpp) | Easy | 8 ms | 14.8 MB |
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [cpp](Cpp/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp) | Medium | 16 ms | 15.2 MB |
+104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [cpp](Cpp/104.%20Maximum%20Depth%20of%20Binary%20Tree.cpp) | Easy | 8 ms | 17.1 MB |
+107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [cpp](Cpp/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.cpp) | Easy | 4 ms | 11.8 MB |
+108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [cpp](Cpp/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.cpp) | Easy | 24 ms | 21.8 MB |
+110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [cpp](Cpp/110.%20Balanced%20Binary%20Tree.cpp) | Easy | 16 ms | 14.4 MB |
 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](Cpp/113.%20Path%20Sum%20II.cpp)| Easy | 16 ms | 19.7 MB |
 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [cpp](Cpp/113.%20Path%20Sum.cpp)| Medium | 16 ms | 19.7 MB |
-120 | [Triangle](Cpp/120.%20Triangle.cpp) | [cpp](Cpp/120.%20Triangle.cpp) | Medium | 4 ms | 7.5 MS |
+118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [cpp](Cpp/118.%20Pascal's%20Triangle.cpp) | Easy | 0 ms | 6.6 MB |
+119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [cpp](Cpp/119.%20Pascal's%20Triangle%20II.cpp) | Easy | 4 ms | 6.5 MB |
+120 | [Triangle](https://leetcode.com/problems/triangle/) | [cpp](Cpp/120.%20Triangle.cpp) | Medium | 4 ms | 7.5 MS |
+125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [cpp](Cpp/125.%20Valid%20Palindrome.cpp) | Easy | 8 ms | 7.8 MB |
 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [cpp](Cpp/128.%20Longest%20Consecutive%20Sequence.cpp)| Hard | 16 ms | 8 MB |
 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | [cpp](Cpp/131.%20Palindrome%20Partitioning.cpp) | Medium | 88 ms | 23.9 MB |
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [cpp](Cpp/136.%20Single%20Number.cpp) | Easy | 16 ms | 9.6 MB
