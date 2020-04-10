@@ -1,6 +1,6 @@
 /*
 Author: Tony Hsiao
-Date: 2020/04/09
+Date: 2020/04/10
 Topic: 
 Speed:  ms,  MB
 Note:
@@ -14,11 +14,6 @@ Note:
 using namespace std;
 class Solution {
 public:
-    int min(int x, int y) {
-        return (x<y) ? x : y;
-    }
-    int max(int x, int y) {
-        return (x>y) ? x : y;
-    }
+    
 
 };
