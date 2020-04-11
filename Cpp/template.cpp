@@ -1,6 +1,6 @@
 /*
 Author: Tony Hsiao
-Date: 2020/04/10
+Date: 2020/04/11
 Topic: 
 Speed:  ms,  MB
 Note:
@@ -12,8 +12,3 @@ Note:
 #include <list>
 #include <map>
 using namespace std;
-class Solution {
-public:
-    
-
-};

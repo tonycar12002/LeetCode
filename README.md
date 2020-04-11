@@ -1,4 +1,4 @@
-# LeetCode C++ 紀錄解題原始碼
+# LeetCode  紀錄解題原始碼
 | # | 題目 | 原始碼 | 難度 | 速度 | 記憶體 |  
 |---| ----- | ----- | ----- | ----- |  ----- | 
 0 | [Template]() | [cpp]()| Easy |  ms |  MB |
@@ -100,13 +100,22 @@
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [cpp](Cpp/169.%20Majority%20Element.cpp) | Easy | 28 ms | 9 MB |
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [cpp](Cpp/171.%20Excel%20Sheet%20Column%20Number.cpp) | Easy | 0 ms | 5.9 MB |
 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [cpp](Cpp/172.%20Factorial%20Trailing%20Zeroes.cpp) | Easy | 0 ms | 6.1 MB |
+189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [cpp](Cpp/189.%20Rotate%20Array.cpp) | Easy | 16 ms | 7.2 MB |
+190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [cpp](Cpp/190.%20Reverse%20Bits.cpp) | Easy | 0 ms | 5.9 MB |
+191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [cpp](Cpp/191.%20Number%20of%201%20Bits.cpp) | Easy | 0 ms | 6.2 MB |
 195 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [cpp](Cpp/965.%20Univalued%20Binary%20Tree.cpp)| Easy | 4 ms | 10.7 MB |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [cpp](Cpp/198.%20House%20Robber.cpp) | Easy | 0 ms | 6.3 MB |
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [cpp](Cpp/202.%20Happy%20Number.cpp)| Easy | 8 ms | 8.5 MB |
+203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [cpp](Cpp/203.%20Remove%20Linked%20List%20Elements.cpp) | Easy | 32 ms | 10.8 MB |
+204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [cpp](Cpp/204.%20Count%20Primes.cpp) | Easy | 532 ms | 9.1 MB |
+205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [cpp](Cpp/205.%20Isomorphic%20Strings.cpp) | Easy | 8 ms | 7 MB |
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [cpp](Cpp/206.%20Reverse%20Linked%20List.cpp) | Easy | 8 ms | 9.4 MB |
 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | [cpp](Cpp/207.%20Course%20Schedule.cpp) | Medium | 20 ms | 13 MB |
 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [cpp](Cpp/208.%20Implement%20Trie%20(Prefix%20Tree).cpp)| Medium | 72 ms | 26.2 MB |
 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [cpp](Cpp/215.%20Kth%20Largest%20Element%20in%20an%20Array.cpp)| Medium | 16 ms | 9.2 MB |
+217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [cpp](Cpp/217.%20Contains%20Duplicate.cpp) | Easy | 48 ms | 13.6 MB |
+219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [cpp](Cpp/219.%20Contains%20Duplicate%20II.cpp) | Easy | 40 ms | 12.6 MB |
+225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [cpp](Cpp/225.%20Implement%20Stack%20using%20Queues.cpp) | Easy | 0 ms | 6.6 MB |
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [cpp](Cpp/226.%20Invert%20Binary%20Tree.cpp)| Easy | 4 ms | 9.1 MB |
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [cpp](Cpp/263.%20Ugly%20Number.cpp)| Easy | 4 ms | 8.1 MB |
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [cpp](Cpp/264.%20Ugly%20Number%20II.cpp)| Medium | 12 ms | 14.9 MB |
