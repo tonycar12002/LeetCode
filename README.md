@@ -94,6 +94,7 @@
 136 | [Single Number](https://leetcode.com/problems/single-number/) | [cpp](Cpp/136.%20Single%20Number.cpp) | Easy | 16 ms | 9.6 MB |
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [cpp](Cpp/141.%20Linked%20List%20Cycle.cpp) | Easy | 36 ms | 10 MB |
 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [cpp](Cpp/144.%20Binary%20Tree%20Preorder%20Traversal.cpp) | Medium | 12 ms | 9.4 MB |
+155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [cpp](Cpp/155.%20Min%20Stack.cpp) | Easy | 40 ms | 14.7 MB |
 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [cpp](Cpp/160.%20Intersection%20of%20Two%20Linked%20Lists.cpp) | Easy | 108 ms | 21 MB |
 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [cpp](Cpp/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.cpp) | Easy | 6 ms | N/A |
 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [cpp](Cpp/168.%20Excel%20Sheet%20Column%20Title.cpp)| Easy | 0 ms | 5.9 MB |
@@ -117,6 +118,12 @@
 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [cpp](Cpp/219.%20Contains%20Duplicate%20II.cpp) | Easy | 40 ms | 12.6 MB |
 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [cpp](Cpp/225.%20Implement%20Stack%20using%20Queues.cpp) | Easy | 0 ms | 6.6 MB |
 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [cpp](Cpp/226.%20Invert%20Binary%20Tree.cpp)| Easy | 4 ms | 9.1 MB |
+231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [cpp](Cpp/231.%20Power%20of%20Two.cpp) | Easy | 0 ms | 5.9 MB |
+232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Easy | 0 ms | 6.8 MB |
+234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)  | [cpp](Cpp/234.%20Palindrome%20Linked%20List.cpp) | Easy | 28 ms | 11.4 MB |
+235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [cpp](Cpp/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp) | Easy | 44 ms | 23.2 MB |
+237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [cpp](Cpp/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp) | Easy | 16 ms | 8 MB |
+242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [cpp](Cpp/242.%20Valid%20Anagram.cpp) | Easy | 8 ms | 7.5 MB |
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [cpp](Cpp/263.%20Ugly%20Number.cpp)| Easy | 4 ms | 8.1 MB |
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [cpp](Cpp/264.%20Ugly%20Number%20II.cpp)| Medium | 12 ms | 14.9 MB |
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [cpp](Cpp/313.%20Super%20Ugly%20Number.cpp)| Medium | 72 ms | 10 MB |
