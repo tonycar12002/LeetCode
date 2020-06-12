@@ -105,6 +105,7 @@
 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [cpp](Cpp/169.%20Majority%20Element.cpp) | Easy | 28 ms | 9 MB |
 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [cpp](Cpp/171.%20Excel%20Sheet%20Column%20Number.cpp) | Easy | 0 ms | 5.9 MB |
 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | [cpp](Cpp/172.%20Factorial%20Trailing%20Zeroes.cpp) | Easy | 0 ms | 6.1 MB |
+179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [cpp](Cpp/179.%20Largest%20Number.cpp) | Medium | 12 ms | 11 MB |
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [cpp](Cpp/189.%20Rotate%20Array.cpp) | Easy | 16 ms | 7.2 MB |
 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [cpp](Cpp/190.%20Reverse%20Bits.cpp) | Easy | 0 ms | 5.9 MB |
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [cpp](Cpp/191.%20Number%20of%201%20Bits.cpp) | Easy | 0 ms | 6.2 MB |
@@ -131,6 +132,7 @@
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [cpp](Cpp/263.%20Ugly%20Number.cpp)| Easy | 4 ms | 8.1 MB |
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [cpp](Cpp/264.%20Ugly%20Number%20II.cpp)| Medium | 12 ms | 14.9 MB |
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [cpp](Cpp/313.%20Super%20Ugly%20Number.cpp)| Medium | 72 ms | 10 MB |
+326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [cpp](Cpp/326.%20Power%20of%20Three.cpp) | Easy | 36 MB | 6.2 ms |
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [cpp](Cpp/386.%20Lexicographical%20Numbers.cpp)| Medium | 68 ms | 11.8 MB |
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.cIs%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [cpp](Cpp/445.%20Add%20Two%20Numbers%20II.cpp) | Medium | 20 ms | 13.7 MB |
