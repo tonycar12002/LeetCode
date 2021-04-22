@@ -1,4 +1,6 @@
 # LeetCode  紀錄解題原始碼
+Divide and Conquer: 95, 96
+
 | # | 題目 | 原始碼 | 難度 | 速度 | 記憶體 |  
 |---| ----- | ----- | ----- | ----- |  ----- | 
 0 | [Template]() | [cpp]()| Easy |  ms |  MB |
@@ -83,8 +85,8 @@
 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [cpp](Cpp/107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.cpp) | Easy | 24 ms | 21.8 MB |
 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [cpp](Cpp/110.%20Balanced%20Binary%20Tree.cpp) | Easy | 16 ms | 14.4 MB |
 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [cpp](Cpp/111.%20Minimum%20Depth%20of%20Binary%20Tree.cpp) | Easy | 12 ms | 17.6 MB |
-112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](Cpp/113.%20Path%20Sum%20II.cpp)| Easy | 16 ms | 19.7 MB |
-113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [cpp](Cpp/113.%20Path%20Sum.cpp)| Medium | 16 ms | 19.7 MB |
+112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [cpp](Cpp/112.%20Path%20Sum.cpp)| Easy | 16 ms | 19.7 MB |
+113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [cpp](Cpp/113.%20Path%20Sum%20II.cpp)| Medium | 16 ms | 19.7 MB |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [cpp](Cpp/118.%20Pascal's%20Triangle.cpp) | Easy | 0 ms | 6.6 MB |
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [cpp](Cpp/119.%20Pascal's%20Triangle%20II.cpp) | Easy | 4 ms | 6.5 MB |
 120 | [Triangle](https://leetcode.com/problems/triangle/) | [cpp](Cpp/120.%20Triangle.cpp) | Medium | 4 ms | 7.5 MS |
@@ -111,6 +113,7 @@
 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [cpp](Cpp/191.%20Number%20of%201%20Bits.cpp) | Easy | 0 ms | 6.2 MB |
 195 | [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/) | [cpp](Cpp/965.%20Univalued%20Binary%20Tree.cpp)| Easy | 4 ms | 10.7 MB |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [cpp](Cpp/198.%20House%20Robber.cpp) | Easy | 0 ms | 6.3 MB |
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [cpp](Cpp/200.%20Number%20of%20Islands.cpp) | Medium | 12 ms | 10 MB |
 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [cpp](Cpp/202.%20Happy%20Number.cpp)| Easy | 8 ms | 8.5 MB |
 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [cpp](Cpp/203.%20Remove%20Linked%20List%20Elements.cpp) | Easy | 32 ms | 10.8 MB |
 204 | [Count Primes](https://leetcode.com/problems/count-primes/) | [cpp](Cpp/204.%20Count%20Primes.cpp) | Easy | 532 ms | 9.1 MB |
@@ -134,7 +137,7 @@
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [cpp](Cpp/313.%20Super%20Ugly%20Number.cpp)| Medium | 72 ms | 10 MB |
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [cpp](Cpp/326.%20Power%20of%20Three.cpp) | Easy | 36 MB | 6.2 ms |
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [cpp](Cpp/386.%20Lexicographical%20Numbers.cpp)| Medium | 68 ms | 11.8 MB |
-392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.cIs%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
+392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.%20Is%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [cpp](Cpp/445.%20Add%20Two%20Numbers%20II.cpp) | Medium | 20 ms | 13.7 MB |
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) | [cpp](Cpp/454.%204Sum%20II.cpp) | Medium | 148 ms | 28.6 MB
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [cpp](Cpp/455.%20Assign%20Cookies.cpp) | Easy | 44 ms | 10.4 MB |
@@ -146,6 +149,14 @@
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [cpp](Cpp/797.%20All%20Paths%20From%20Source%20to%20Target.cpp) | Medium | 84 ms | 11.4 MB |
-980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |
+980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |g
 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [cpp](Cpp/983.%20Minimum%20Cost%20For%20Tickets.cpp) | Medium | 4 ms | 6.7 MB |
-1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [cpp](Cpp/1306.%20Jump%20Game%20III.cpp) | Medium | 52 ms | 10.9MB |
+1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [cpp](Cpp/1108.%20Defanging%20an%20IP%20Address.cpp) | Easy | 0 ms | 5.8 MB |
+1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [cpp](Cpp/1119.%20Remove%20Vowels%20from%20a%20String.cpp) | Easy | 0 ms | 6.3 MB |
+1265 | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | [cpp](Cpp/1265.%20Print%20Immutable%20Linked%20List%20in%20Reverse.cpp) | Easy | 4 ms | 6.6 MB |
+1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [cpp](Cpp/1302.%20Deepest%20Leaves%20Sum.cpp) | Medium | 44 ms | 39.3 MB |
+1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [cpp](Cpp/1306.%20Jump%20Game%20III.cpp) | Medium | 52 ms | 10.9 MB |
+1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [cpp](Cpp/1480.%20Running%20Sum%20of%201d%20Array.cpp) | Easy | 4 ms | 8.5 MB |
+1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [cpp](Cpp/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals%20.cpp) | Medium | 160 ms | 62.6 MB |
+1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [cpp](Cpp/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.cpp) | Medium | 180 ms | 174.3 MB |
+1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [cpp](Cpp/1672.%20Richest%20Customer%20Wealth.cpp) | Easy | 8 ms | 7.8 MB |
