@@ -60,6 +60,7 @@ Divide and Conquer: 95, 96
 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [cpp](Cpp/70.%20Climbing%20Stairs.cpp)| Easy | 4 ms | 8.2 MB |
 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | [cpp](Cpp/72.%20Edit%20Distance.cpp)| Easy | 16 ms | 11.4 MB |
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [cpp](Cpp/73.%20Set%20Matrix%20Zeroes.cpp)| Medium| 48 ms | 11.5 MB |
+74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [cpp](Cpp/74.%20Search%20a%202D%20Matrix.cpp) | Medium | 4 ms | 9.6 MB |
 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [cpp](Cpp/75.%20Sort%20Colors.cpp)| Medium| 4 ms | 8.7 MB |
 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | [cpp](Cpp/76.%20Minimum%20Window%20Substring.cpp) | Hard | 52 ms | 16.3 MB |
 77 | [Combinations](https://leetcode.com/problems/combinations/) | [cpp](Cpp/77.%20Combinations.cpp) | Medium | 732 ms | 165.6 MB |
