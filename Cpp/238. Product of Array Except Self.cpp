@@ -1,8 +1,8 @@
 /*
 Author: Tony Hsiao
 Date: 2021/04/21
-Topic: 146. LRU Cache
-Speed:  ms,  MB
+Topic: 238. Product of Array Except Self
+Speed: 20 ms, 25 MB
 Note:
 */
 #include <iostream>
@@ -13,31 +13,29 @@ Note:
 #include <map>
 #include <unordered_map>
 using namespace std;
-class LRUCache {
+class Solution {
 public:
-  LRUCache(int capacity) {
-    current_capacity_ = 0;
-    capacity_ = capacity;
-  }
-
-  int get(int key) {
-  }
-
-  void put(int key, int value) {
-
-  }
-
-private:
-  int last_key_;
-  int current_capacity_;
-  int capacity_
-  std::unordered_map<int, int> cache_;
-  int key_[3001];
+  vector<int> productExceptSelf(vector<int>& nums) {
+    int total = 1;
+    int zero_nums = 0;
+    for (const auto& num : nums) {
+      if (num != 0)
+        total *= num;
+      else
+        zero_nums++;
+    }
+    std::vector<int> ans;
+    for (const auto& num : nums) {
+      if (num != 0 && zero_nums != 0) {
+        ans.push_back(0);
+      } else if (num != 0){
+        ans.push_back(total / num);
+      } else if (num == 0 && zero_nums >= 2) {
+        ans.push_back(0);
+      } else if (num == 0 && zero_nums == 1) {
+        ans.push_back(total);
+      }
+    }
+    return ans;
+  } // end function
 };
-
-/**
- * Your LRUCache object will be instantiated and called as such:
- * LRUCache* obj = new LRUCache(capacity);
- * int param_1 = obj->get(key);
- * obj->put(key,value);
- */
