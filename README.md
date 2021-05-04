@@ -134,6 +134,7 @@ Divide and Conquer: 95, 96
 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [cpp](Cpp/237.%20Delete%20Node%20in%20a%20Linked%20List.cpp) | Easy | 16 ms | 8 MB |
 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [cpp](Cpp/238.%20Product%20of%20Array%20Except%20Self.cpp) | Medium | 20 ms | 25 MB |
 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [cpp](Cpp/242.%20Valid%20Anagram.cpp) | Easy | 8 ms | 7.5 MB |
+253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | [cpp](Cpp/253.%20Meeting%20Rooms%20II.cpp) | Medium | 12 ms | 11.8 MB |
 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/) | [cpp](Cpp/263.%20Ugly%20Number.cpp)| Easy | 4 ms | 8.1 MB |
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [cpp](Cpp/264.%20Ugly%20Number%20II.cpp)| Medium | 12 ms | 14.9 MB |
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [cpp](Cpp/313.%20Super%20Ugly%20Number.cpp)| Medium | 72 ms | 10 MB |
@@ -151,6 +152,7 @@ Divide and Conquer: 95, 96
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [cpp](Cpp/797.%20All%20Paths%20From%20Source%20to%20Target.cpp) | Medium | 84 ms | 11.4 MB |
+973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [cpp](Cpp/973.%20K%20Closest%20Points%20to%20Origin.cpp) | Medium | 212 ms | 73.7 MB |
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |g
 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [cpp](Cpp/983.%20Minimum%20Cost%20For%20Tickets.cpp) | Medium | 4 ms | 6.7 MB |
 1041 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |[cpp](Cpp/1041.%20Robot%20Bounded%20In%20Circle.cpp) | Medium | 0 ms | 6.2MB |
@@ -159,7 +161,7 @@ Divide and Conquer: 95, 96
 1265 | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | [cpp](Cpp/1265.%20Print%20Immutable%20Linked%20List%20in%20Reverse.cpp) | Easy | 4 ms | 6.6 MB |
 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [cpp](Cpp/1302.%20Deepest%20Leaves%20Sum.cpp) | Medium | 44 ms | 39.3 MB |
 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [cpp](Cpp/1306.%20Jump%20Game%20III.cpp) | Medium | 52 ms | 10.9 MB |
-1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [cpp](Cpp/1357.%20Apply%20Discount%20Every%20n%20template.cppOrders.cpp) | Medium | 208 ms | 120.6 MB |
+1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [cpp](Cpp/1357.%20Apply%20Discount%20Every%20n%20Orders.cpp) | Medium | 208 ms | 120.6 MB |
 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [cpp](Cpp/1396.%20Design%20Underground%20System.cpp) | Medium | 128 ms |57.4 MB |
 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [cpp](Cpp/1480.%20Running%20Sum%20of%201d%20Array.cpp) | Easy | 4 ms | 8.5 MB |
 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [cpp](Cpp/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals%20.cpp) | Medium | 160 ms | 62.6 MB |
