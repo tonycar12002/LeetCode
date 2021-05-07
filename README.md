@@ -49,6 +49,7 @@ Divide and Conquer: 95, 96
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [cpp](Cpp/54.%20Spiral%20Matrix.cpp) | Medium | 0 ms | 6.3 MB |
 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [cpp](Cpp/55.%20Jump%20Game.cpp) | Medium | 8 ms | 7.9 MB |
 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [cpp](Cpp/56.%20Merge%20Intervals.cpp) | Medium | 24 ms | 9.9 MB |
+57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [cpp](Cpp/57.%20Insert%20Interval.cpp) | Medium | 16 ms | 17.5 MB |
 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [cpp](Cpp/58.%20Length%20of%20Last%20Word.cpp) | Easy | 0 ms | 6.5 MB |
 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [cpp](Cpp/59.%20Spiral%20Matrix%20II.cpp) | Medium | 0 ms | 6.5 MB |
 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [cpp](Cpp/62.%20Unique%20Paths.cpp)| Medium | 4 ms | 8.9 MB |
@@ -139,6 +140,7 @@ Divide and Conquer: 95, 96
 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [cpp](Cpp/264.%20Ugly%20Number%20II.cpp)| Medium | 12 ms | 14.9 MB |
 313 | [Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) | [cpp](Cpp/313.%20Super%20Ugly%20Number.cpp)| Medium | 72 ms | 10 MB |
 326 | [Power of Three](https://leetcode.com/problems/power-of-three/) | [cpp](Cpp/326.%20Power%20of%20Three.cpp) | Easy | 36 MB | 6.2 ms |
+380 | [Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [cpp](Cpp/380.%20Insert%20Delete%20GetRandom%20O(1).cpp)| Medium | 68 ms | 22.6 MB |
 386 | [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/) | [cpp](Cpp/386.%20Lexicographical%20Numbers.cpp)| Medium | 68 ms | 11.8 MB |
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [cpp](Cpp/392.%20Is%20Subsequence.cpp) | Medium | 64 ms | 17 MB |
 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [cpp](Cpp/445.%20Add%20Two%20Numbers%20II.cpp) | Medium | 20 ms | 13.7 MB |
@@ -149,15 +151,17 @@ Divide and Conquer: 95, 96
 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [cpp](Cpp/542.%2001%20Matrix.cpp) | Medium | 196 ms | 21.1 MB |
 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [cpp](Cpp/650.%202%20Keys%20Keyboard.cpp) | Medium | 4 ms | 8.2 MB |
 679 | [24 Game](https://leetcode.com/problems/24-game/) | [cpp](Cpp/679.%2024%20Game.cpp) | Hard | 36 ms | 15.7 MB |
+767 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | [cpp](Cpp/767.%20Reorganize%20String.cpp) | Medium | 0 ms | 8.6 MB | 
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [cpp](Cpp/797.%20All%20Paths%20From%20Source%20to%20Target.cpp) | Medium | 84 ms | 11.4 MB |
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [cpp](Cpp/973.%20K%20Closest%20Points%20to%20Origin.cpp) | Medium | 212 ms | 73.7 MB |
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |g
 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [cpp](Cpp/983.%20Minimum%20Cost%20For%20Tickets.cpp) | Medium | 4 ms | 6.7 MB |
-1041 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |[cpp](Cpp/1041.%20Robot%20Bounded%20In%20Circle.cpp) | Medium | 0 ms | 6.2MB |
+1041 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |[cpp](Cpp/1041.%20Robot%20Bounded%20In%20Circle.cpp) | Medium | 0 ms | 6.2 MB |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [cpp](Cpp/1108.%20Defanging%20an%20IP%20Address.cpp) | Easy | 0 ms | 5.8 MB |
 1119 | [Remove Vowels from a String](https://leetcode.com/problems/remove-vowels-from-a-string/) | [cpp](Cpp/1119.%20Remove%20Vowels%20from%20a%20String.cpp) | Easy | 0 ms | 6.3 MB |
+1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [cpp](Cpp/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp) | Medium | 20 ms | 9.8 MB |
 1265 | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | [cpp](Cpp/1265.%20Print%20Immutable%20Linked%20List%20in%20Reverse.cpp) | Easy | 4 ms | 6.6 MB |
 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [cpp](Cpp/1302.%20Deepest%20Leaves%20Sum.cpp) | Medium | 44 ms | 39.3 MB |
 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [cpp](Cpp/1306.%20Jump%20Game%20III.cpp) | Medium | 52 ms | 10.9 MB |
