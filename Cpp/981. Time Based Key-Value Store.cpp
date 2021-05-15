@@ -14,6 +14,11 @@ Note:
 #include <unordered_map>
 using namespace std;
 
+struct Data  {
+  int timestamp;
+  std::vector<
+};
+
 class TimeMap {
 public:
   /** Initialize your data structure here. */
@@ -28,6 +33,9 @@ public:
   string get(string key, int timestamp) {
 
   }
+
+private:
+  std::map
 };
 
 /**
