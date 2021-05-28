@@ -1,7 +1,7 @@
 /*
 Author: Tony Hsiao
 Date: 2021/05/10
-Topic:　86.　Partition List.cpp
+Topic: 86. Partition List
 Speed: 8 ms, 10.4 MB
 Note:
 */

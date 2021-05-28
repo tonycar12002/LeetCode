@@ -1,7 +1,7 @@
 /*
 Author: Tony Hsiao
 Date: 2021/05/10
-Topic: 251. Flatten 2D Vector.cpp
+Topic: 251. Flatten 2D Vector
 Speed: 16 ms, 19.6 MB
 Note:
 */
