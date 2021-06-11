@@ -158,6 +158,7 @@ Divide and Conquer: 95, 96
 650 | [2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) | [cpp](Cpp/650.%202%20Keys%20Keyboard.cpp) | Medium | 4 ms | 8.2 MB |
 679 | [24 Game](https://leetcode.com/problems/24-game/) | [cpp](Cpp/679.%2024%20Game.cpp) | Hard | 36 ms | 15.7 MB |
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [cpp](Cpp/695.%20Max%20Area%20of%20Island.cpp) | Medium | 12 ms | 23.1 MB |
+725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [cpp](Cpp/725.%20Split%20Linked%20List%20in%20Parts.cpp) | Medium | 8 ms | 8.9 MB |
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [cpp](Cpp/739.%20Daily%20Temperatures.cpp) | Medium | 144 ms | 42.7 MB |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [cpp](Cpp/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | Easy | 8 ms | 13.8 MB |
 767 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | [cpp](Cpp/767.%20Reorganize%20String.cpp) | Medium | 0 ms | 8.6 MB | 
@@ -168,6 +169,7 @@ Divide and Conquer: 95, 96
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |g
 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [cpp](Cpp/983.%20Minimum%20Cost%20For%20Tickets.cpp) | Medium | 4 ms | 6.7 MB |
 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [cpp](Cpp/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.cpp) | Medium | 28 ms | 23.2 MB |
+1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [cpp](Cpp/1019.%20Next%20Greater%20Node%20In%20Linked%20List.cpp) | Medium | 436 ms | 83.8 MB |
 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [cpp](Cpp/1025.%20Divisor%20Game.cpp) | Easy | 0 ms | 5.8 MB |
 1041 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |[cpp](Cpp/1041.%20Robot%20Bounded%20In%20Circle.cpp) | Medium | 0 ms | 6.2 MB |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [cpp](Cpp/1108.%20Defanging%20an%20IP%20Address.cpp) | Easy | 0 ms | 5.8 MB |
