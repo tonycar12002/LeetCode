@@ -165,6 +165,7 @@ Divide and Conquer: 95, 96
 679 | [24 Game](https://leetcode.com/problems/24-game/) | [cpp](Cpp/679.%2024%20Game.cpp) | Hard | 36 ms | 15.7 MB |
 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [cpp](Cpp/690.%20Employee%20Importance.cpp) | Easy | 28 ms | 14.1 MB |
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [cpp](Cpp/695.%20Max%20Area%20of%20Island.cpp) | Medium | 12 ms | 23.1 MB |
+725 | [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) | [cpp](Cpp/725.%20Split%20Linked%20List%20in%20Parts.cpp) | Medium | 8 ms | 8.9 MB |
 729 | [My Calendar](https://leetcode.com/problems/my-calendar-i/solution/) | [cpp](Cpp/729.%20My%20Calendar.cpp) | Medium | 68 ms | 38.9 MB |
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [cpp](Cpp/739.%20Daily%20Temperatures.cpp) | Medium | 144 ms | 42.7 MB |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [cpp](Cpp/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | Easy | 8 ms | 13.8 MB |
@@ -179,6 +180,7 @@ Divide and Conquer: 95, 96
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |g
 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [cpp](Cpp/983.%20Minimum%20Cost%20For%20Tickets.cpp) | Medium | 4 ms | 6.7 MB |
 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [cpp](Cpp/1010.%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.cpp) | Medium | 28 ms | 23.2 MB |
+1019 | [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) | [cpp](Cpp/1019.%20Next%20Greater%20Node%20In%20Linked%20List.cpp) | Medium | 436 ms | 83.8 MB |
 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | [cpp](Cpp/1025.%20Divisor%20Game.cpp) | Easy | 0 ms | 5.8 MB |
 1041 | [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) |[cpp](Cpp/1041.%20Robot%20Bounded%20In%20Circle.cpp) | Medium | 0 ms | 6.2 MB |
 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [cpp](Cpp/1108.%20Defanging%20an%20IP%20Address.cpp) | Easy | 0 ms | 5.8 MB |
@@ -188,17 +190,21 @@ Divide and Conquer: 95, 96
 1254 | [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) |[cpp](Cpp/1254.%20Number%20of%20Closed%20Islands.cpp) | Medium | 12 ms | 9.5 MB |
 1265 | [Print Immutable Linked List in Reverse](https://leetcode.com/problems/print-immutable-linked-list-in-reverse/) | [cp](Cpp/1265.%20Print%20Immutable%20Linked%20List%20in%20Reverse.cpp) | Easy | 4 ms | 6.6 MB |
 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/) | [cpp](Cpp/1277.%20Count%20Square%20Submatrices%20with%20All%20Ones.cpp) | Medium | 88 ms | 23.6 MB |
+1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) [cpp](Cpp/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.cpp) | Easy | 0 ms | 8.2 MB |
 1302 | [Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/) | [cpp](Cpp/1302.%20Deepest%20Leaves%20Sum.cpp) | Medium | 44 ms | 39.3 MB |
 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [cpp](Cpp/1306.%20Jump%20Game%20III.cpp) | Medium | 52 ms | 10.9 MB |
 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | [cpp](Cpp/1314.%20Matrix%20Block%20Sum.cpp) | Medium | 16 ms | 9.6 MB |
 1357 | [Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/) | [cpp](Cpp/1357.%20Apply%20Discount%20Every%20n%20Orders.cpp) | Medium | 208 ms | 120.6 MB |
 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [cpp](Cpp/1396.%20Design%20Underground%20System.cpp) | Medium | 128 ms |57.4 MB |
 1465 | [Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/) | [cpp](Cpp/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp) | Medium | 68 ms | 32.1 MB |
+1474 | [Delete N Nodes After M Nodes of a Linked List](https://leetcode.com/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/) | [cpp](Cpp/1474.%20Delete%20N%20Nodes%20After%20M%20Nodes%20of%20a%20Linked%20List.cpp) | Easy | 40 ms | 15.8 MB |
 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | [cpp](Cpp/1480.%20Running%20Sum%20of%201d%20Array.cpp) | Easy | 4 ms | 8.5 MB |
 1481 | [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) | [cpp](Cpp/1481.%20Least%20Number%20of%20Unique%20Integers%20after%20K%20Removals%20.cpp) | Medium | 160 ms | 62.6 MB |
 1525 | [Number of Good Ways to Split a String](https://leetcode.com/problems/number-of-good-ways-to-split-a-string/) | [cpp](Cpp/1525.%20Number%20of%20Good%20Ways%20to%20Split%20a%20String.cpp) | Medium | 48 ms |11.3 MB |
 1570 | [Dot Product of Two Sparse Vectors](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/) | [cpp](Cpp/1570.%20Dot%20Product%20of%20Two%20Sparse%20Vectors.cpp) | Medium | 180 ms | 174.3 MB |
 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [cpp](Cpp/1602.%20Find%20Nearest%20Right%20Node%20in%20Binary%20Tree.cpp) | Medium | 144 ms | 87.2 MB |
 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [cpp](Cpp/1641.%20Count%20Sorted%20Vowel%20Strings.cpp) | Medium | 0 ms | 5.9 MB |
+1669 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | [cpp](Cpp/1669.%20Merge%20In%20Between%20Linked%20Lists.cpp) | Medium | 504 ms | 95.1 MB |
 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [cpp](Cpp/1672.%20Richest%20Customer%20Wealth.cpp) | Easy | 8 ms | 7.8 MB |
 1702 | [Maximum Binary String After Change](https://leetcode.com/problems/maximum-binary-string-after-change/) | [cpp](Cpp/1702.%20Maximum%20Binary%20String%20After%20Change.cpp) | Medium | 156 ms | 40.4 MB |
+1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [cpp](Cpp/1721.%20Swapping%20Nodes%20in%20a%20Linked%20List.cpp) | Medium | 768 ms | 180.1 MB |
