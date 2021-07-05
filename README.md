@@ -154,7 +154,10 @@ Divide and Conquer: 95, 96
 454 | [4Sum II](https://leetcode.com/problems/4sum-ii/submissions/) | [cpp](Cpp/454.%204Sum%20II.cpp) | Medium | 148 ms | 28.6 MB
 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | [cpp](Cpp/455.%20Assign%20Cookies.cpp) | Easy | 44 ms | 10.4 MB |
 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [cpp](Cpp/461.%20Hamming%20Distance.cpp) | Easy | 4 ms | 8.1 MB |
+509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [cpp](Cpp/509.%20Fibonacci%20Number.cpp) | Easy | 12 ms | 5.7 MB |
 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | [cpp](Cpp/515.%20Find%20Largest%20Value%20in%20Each%20Tree%20Row.cpp) | Medium | 24 ms | 23.5 MB |
+523 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [cpp](Cpp/523.%20Continuous%20Subarray%20Sum.cpp) | Medium | 152 ms | 96.6 MB |
+532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [cpp](Cpp/532.%20K-diff%20Pairs%20in%20an%20Array.cpp) | Medium | 60 ms | 42 MB |
 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | [cpp](Cpp/542.%2001%20Matrix.cpp) | Medium | 196 ms | 21.1 MB |
 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | [cpp](Cpp/547.%20Number%20of%20Provinces.cpp) | Medium | 12 ms | 14.2 MB |
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [cpp](Cpp/560.%20Subarray%20Sum%20Equals%20K.cpp) | Medium | 80 ms | 42 MB |
@@ -162,12 +165,15 @@ Divide and Conquer: 95, 96
 679 | [24 Game](https://leetcode.com/problems/24-game/) | [cpp](Cpp/679.%2024%20Game.cpp) | Hard | 36 ms | 15.7 MB |
 690 | [Employee Importance](https://leetcode.com/problems/employee-importance/) | [cpp](Cpp/690.%20Employee%20Importance.cpp) | Easy | 28 ms | 14.1 MB |
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [cpp](Cpp/695.%20Max%20Area%20of%20Island.cpp) | Medium | 12 ms | 23.1 MB |
+729 | [My Calendar](https://leetcode.com/problems/my-calendar-i/solution/) | [cpp](Cpp/729.%20My%20Calendar.cpp) | Medium | 68 ms | 38.9 MB |
 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [cpp](Cpp/739.%20Daily%20Temperatures.cpp) | Medium | 144 ms | 42.7 MB |
 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [cpp](Cpp/746.%20Min%20Cost%20Climbing%20Stairs.cpp) | Easy | 8 ms | 13.8 MB |
 767 | [767. Reorganize String](https://leetcode.com/problems/reorganize-string/) | [cpp](Cpp/767.%20Reorganize%20String.cpp) | Medium | 0 ms | 8.6 MB | 
 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [cpp](Cpp/771.%20Jewels%20and%20Stones.cpp) | Easy | 4 ms | 8.1 MB |
 792 | [Number of Matching Subsequences](https://leetcode.com/problems/number-of-matching-subsequences/) | [cpp](Cpp/792.%20Number%20of%20Matching%20Subsequences.cpp) | Medium | 168 ms | 39.5 MB |
 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [cpp](Cpp/797.%20All%20Paths%20From%20Source%20to%20Target.cpp) | Medium | 84 ms | 11.4 MB |
+876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [cpp](Cpp/876.%20Middle%20of%20the%20Linked%20List.cpp) | Easy | 0 ms | 6.5 MB |
+939 | [Minimum Area Rectangle](https://leetcode.com/problems/minimum-area-rectangle/) | [cpp](Cpp/939.%20Minimum%20Area%20Rectangle.cpp) | Medium | 720 ms | 19.6 MB |
 951 | [Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/) | [cpp](Cpp/951.%20Flip%20Equivalent%20Binary%20Trees.cpp) | Medium | 4 ms | 12.2 MB |
 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [cpp](Cpp/973.%20K%20Closest%20Points%20to%20Origin.cpp) | Medium | 212 ms | 73.7 MB |
 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [cpp](Cpp/980.%20Unique%20Paths%20III.cpp)| Hard | 4 ms | 8.8 MB |g
